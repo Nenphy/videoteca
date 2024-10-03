@@ -8,3 +8,5 @@ A simple video library data base using Node.js, Express.js, Sequelize, and SQL.
 To run the tests, use npm install to install all required dependencies as specified in the package.json file.
 The default port to access the server is localhost:443.
 
+**Preview**
+![alt text](https://github.com/Nenphy/videoteca/blob/main/assets/videoteca.png)
